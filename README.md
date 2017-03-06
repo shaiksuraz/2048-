@@ -2,6 +2,7 @@
 2048 version in python with Fibonacci series(1,2,3,5..) and Alphabet series(a,b,c,d...)
 
 Alphabet Series:
+
 ![alphabet](https://cloud.githubusercontent.com/assets/17685167/23596085/60f3e1a0-024d-11e7-8448-fd9933867899.png)
 
 Fibonacci Series:
